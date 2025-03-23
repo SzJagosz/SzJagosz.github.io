@@ -1,5 +1,6 @@
 ---
 title: Welcome to The Azure Way
+permalink: /posts/welcome-to-the-azure-way/
 date: 2025-03-23 19:30:00 +0100
 categories: [General]
 tags: [introduction]
